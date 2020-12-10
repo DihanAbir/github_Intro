@@ -1,0 +1,5 @@
+Vscode connectivity with git bash; 
+
+    Make terminal config powershelll to gitbash 
+    Onscreen (view> terminal > selector terminal  then ctrl + shift +P then search terminal then select git bash)
+    Extension : gitlens , git history
