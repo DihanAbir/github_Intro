@@ -1,0 +1,13 @@
+Commit code: 
+
+    Git init
+    Git add .
+    Git status (to see current files that is not commit to ur git )
+    Git commit -m ‘the first commit”
+    Git remote add origin https://github.com/repositorname.git (only for the first time :) )
+    Git push -u origin master
+    ** if u face any kind of trubble then copy and google it 
+    If fatal error is like this: " ! [rejected]        master -> master (fetch first)
+    error: failed to push some refs to 'https://github.com/DihanAbir/Christy.git'. "
+
+    Then use this command line : ** git push origin master -f
